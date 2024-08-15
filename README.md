@@ -28,7 +28,7 @@
 ## Convert Dataset to rlds format
 
 - install rlds following https://github.com/kpertsch/rlds_dataset_builder
-- replace and cd rlds_dataset_builder/airbot_mix
+- replace and cd rlds/airbot_mix
 - change VERSION and RELEASE_NOTES in airbot_mix_dataset_builder.py
 - python airbot_mix_dataset_builder.py
 - tfds build
