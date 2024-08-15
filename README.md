@@ -29,7 +29,9 @@
 
 - install rlds following https://github.com/kpertsch/rlds_dataset_builder
 - replace and cd rlds/airbot_mix
+- - copy data from act_data/demonstrations/hdf5 to rlds/airbot_mix/data
 - change VERSION and RELEASE_NOTES in airbot_mix_dataset_builder.py
+- Add an instruction.txt to describe the task in data/\<your_dataset_name\>
 - python airbot_mix_dataset_builder.py
 - tfds build
 
