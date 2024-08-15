@@ -113,7 +113,7 @@ if __name__ == "__main__":
                 orientation[2] += action[5]*scale
                 new_quaternion = euler_to_quaternion(orientation[0], orientation[1], orientation[2])
 
-                new_end = current_end * 0.5 + action[6] * 0.5
+                new_end = action[6] # current_end * 0.5 + action[6] * 0.5
                 airbot_player.set_target_pose(new_position, new_quaternion, vel=2.0)
                 airbot_player.set_target_end(new_end)
                 ts = env.step(action=None)
