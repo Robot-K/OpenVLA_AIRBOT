@@ -1,0 +1,5 @@
+[2024-08-15 15:15:05.391] [airbot] [info] ================== AIRBOT PLAY ==================
+[2024-08-15 15:15:05.391] [airbot] [info] Using URDF file: /usr/share/airbot_models/airbot_play_with_gripper.urdf
+[2024-08-15 15:15:05.454] [airbot] [info] board_id: 0	board_type: Base board	firmware_version: 	board_sn_code: DZ21----2400139Y	arm_sn_code: PZ25C024----0742
+[2024-08-15 15:15:05.454] [airbot] [error] board 0 firmware version  lower than airbot version V2.9.0
+[2024-08-15 15:15:05.454] [airbot] [error] Error 0x0002: Base board init fail: Firmware version too low

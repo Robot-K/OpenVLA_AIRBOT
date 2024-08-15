@@ -1,0 +1,36 @@
+[2024-07-31 17:26:40.954] [airbot] [info] ================== AIRBOT PLAY ==================
+[2024-07-31 17:26:40.954] [airbot] [info] Using URDF file: /usr/share/airbot_models/airbot_play_with_gripper.urdf
+[2024-07-31 17:26:41.017] [airbot] [info] board_id: 0	board_type: Base board	firmware_version: V2.9.0	board_sn_code: DZ21JH0024000656	arm_sn_code: PZ25C0240100029U
+[2024-07-31 17:26:41.078] [airbot] [info] board_id: 1	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FJ002400043G	arm_sn_code: PZ25C0240100029U
+[2024-07-31 17:26:41.108] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:26:41.169] [airbot] [info] board_id: 2	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FJ002400044F	arm_sn_code: PZ25C0240100029U
+[2024-07-31 17:26:41.199] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:26:41.259] [airbot] [info] board_id: 3	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FJ002400045E	arm_sn_code: PZ25C0240100029U
+[2024-07-31 17:26:41.290] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:26:41.310] [airbot] [info] motor_id: 4	version: 3163	target version: 3163 / 5013
+[2024-07-31 17:26:41.331] [airbot] [info] motor_id: 5	version: 3163	target version: 3163 / 5013
+[2024-07-31 17:26:41.351] [airbot] [info] motor_id: 6	version: 3163	target version: 3163 / 5013
+[2024-07-31 17:26:41.411] [airbot] [info] board_id: 7	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ10FD0124270057	arm_sn_code: PZ25C02401000607
+[2024-07-31 17:26:41.442] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:26:41.502] [airbot] [info] board_id: 8	board_type: End board	firmware_version: V2.9.0	board_sn_code: MD21LS0024000502	arm_sn_code: PZ25C0240100029U
+[2024-07-31 17:26:41.633] [airbot] [info] Motor encoder deg 335.23682, initial 337.36816, bias -2.1313477
+[2024-07-31 17:26:41.673] [airbot] [info] Motor encoder deg 3.7353516, initial 3.9550781, bias -0.21972656
+[2024-07-31 17:26:41.713] [airbot] [info] Motor encoder deg 14.326172, initial 14.238281, bias 0.087890625
+[2024-07-31 17:26:41.724] [airbot] [info] robot is running, update frame rate: 0.1
+[2024-07-31 17:26:41.724] [airbot] [info] control mode changed, from: INIT to: JOINT_POS
+[2024-07-31 17:26:41.725] [airbot] [info] execution with simple planning in JOINT_POS is finished
+[2024-07-31 17:26:41.824] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 
+[2024-07-31 17:26:41.824] [airbot] [info] Planning: Total steps: 2015746, start timestamp: 1722418001824177
+[2024-07-31 17:26:43.840] [airbot] [info] execution with simple planning in JOINT_POS is finished
+[2024-07-31 17:26:44.452] [airbot] [info] ================== Launch Finish ===================
+[2024-07-31 17:26:44.452] [airbot] [warning] record file is empty, file name wrong?
+[2024-07-31 17:26:51.725] [airbot] [info] robot is running, update frame rate: 19861.8
+[2024-07-31 17:27:01.726] [airbot] [info] robot is running, update frame rate: 562.6
+[2024-07-31 17:27:11.726] [airbot] [info] robot is running, update frame rate: 562.4
+[2024-07-31 17:27:21.728] [airbot] [info] robot is running, update frame rate: 561.6
+[2024-07-31 17:27:31.729] [airbot] [info] robot is running, update frame rate: 563.5
+[2024-07-31 17:27:38.848] [airbot] [info] ================== Shutting Down ===================
+[2024-07-31 17:27:38.857] [airbot] [info] Planning: Target joint position is too close to current joint position, no need to plan!
+[2024-07-31 17:27:38.857] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.00000 0.17453 -0.08727 0.00000 0.00000 0.00000 
+[2024-07-31 17:27:38.857] [airbot] [info] Planning: Total steps: 161895, start timestamp: 1722418058857289
+[2024-07-31 17:27:39.020] [airbot] [info] execution with simple planning in JOINT_POS is finished

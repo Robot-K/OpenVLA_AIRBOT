@@ -1,0 +1,72 @@
+[2024-08-01 16:02:43.071] [airbot] [info] ================== AIRBOT PLAY ==================
+[2024-08-01 16:02:43.071] [airbot] [info] Using URDF file: /usr/share/airbot_models/airbot_play_with_gripper.urdf
+[2024-08-01 16:02:43.134] [airbot] [info] board_id: 0	board_type: Base board	firmware_version: V2.9.0	board_sn_code: DZ21JH002400139Y	arm_sn_code: PZ25C02401000742
+[2024-08-01 16:02:43.194] [airbot] [info] board_id: 1	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DT30LS002417216L	arm_sn_code: PZ25C02401000742
+[2024-08-01 16:02:43.224] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-01 16:02:43.285] [airbot] [info] board_id: 2	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DT20JS002400193I	arm_sn_code: PZ25C02401000742
+[2024-08-01 16:02:43.315] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-01 16:02:43.375] [airbot] [info] board_id: 3	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DT30LS002419409R	arm_sn_code: PZ25C02401000742
+[2024-08-01 16:02:43.405] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-01 16:02:43.426] [airbot] [info] motor_id: 4	version: 3163	target version: 3163 / 5013
+[2024-08-01 16:02:43.446] [airbot] [info] motor_id: 5	version: 3163	target version: 3163 / 5013
+[2024-08-01 16:02:43.466] [airbot] [info] motor_id: 6	version: 3163	target version: 3163 / 5013
+[2024-08-01 16:02:43.526] [airbot] [info] board_id: 7	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ10FD0124270057	arm_sn_code: PZ25C02401000607
+[2024-08-01 16:02:43.557] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-01 16:02:43.617] [airbot] [info] board_id: 8	board_type: End board	firmware_version: V2.9.0	board_sn_code: MD20JH002401103O	arm_sn_code: PZ25C02401000742
+[2024-08-01 16:02:43.747] [airbot] [info] Motor encoder deg 310.62744, initial 310.7373, bias -0.10986328
+[2024-08-01 16:02:43.788] [airbot] [info] Motor encoder deg 46.516113, initial 46.779785, bias -0.263671875
+[2024-08-01 16:02:43.828] [airbot] [info] Motor encoder deg 121.1792, initial 121.223145, bias -0.0439453125
+[2024-08-01 16:02:43.838] [airbot] [info] robot is running, update frame rate: 0.1
+[2024-08-01 16:02:43.838] [airbot] [info] control mode changed, from: INIT to: JOINT_POS
+[2024-08-01 16:02:43.840] [airbot] [info] execution with simple planning in JOINT_POS is finished
+[2024-08-01 16:02:43.938] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 
+[2024-08-01 16:02:43.938] [airbot] [info] Planning: Total steps: 3308074, start timestamp: 1722499363938599
+[2024-08-01 16:02:43.941] [airbot] [warning] motor 3 pos -0.087290026 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.942] [airbot] [warning] motor 3 pos -0.0872922 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.944] [airbot] [warning] motor 3 pos -0.087294206 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.946] [airbot] [warning] motor 3 pos -0.087296024 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.948] [airbot] [warning] motor 3 pos -0.08729771 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.950] [airbot] [warning] motor 3 pos -0.08729921 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.951] [airbot] [warning] motor 3 pos -0.087300576 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.953] [airbot] [warning] motor 3 pos -0.08730177 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.955] [airbot] [warning] motor 3 pos -0.08730281 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.957] [airbot] [warning] motor 3 pos -0.08730369 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.959] [airbot] [warning] motor 3 pos -0.087304406 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.960] [airbot] [warning] motor 3 pos -0.087304965 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.962] [airbot] [warning] motor 3 pos -0.08730538 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.964] [airbot] [warning] motor 3 pos -0.08730562 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.966] [airbot] [warning] motor 3 pos -0.08730571 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.968] [airbot] [warning] motor 3 pos -0.08730564 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.969] [airbot] [warning] motor 3 pos -0.08730542 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.971] [airbot] [warning] motor 3 pos -0.08730503 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.973] [airbot] [warning] motor 3 pos -0.087304495 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.975] [airbot] [warning] motor 3 pos -0.0873038 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.977] [airbot] [warning] motor 3 pos -0.08730296 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.978] [airbot] [warning] motor 3 pos -0.08730195 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.980] [airbot] [warning] motor 3 pos -0.087300785 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.982] [airbot] [warning] motor 3 pos -0.087299466 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.984] [airbot] [warning] motor 3 pos -0.087298006 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.986] [airbot] [warning] motor 3 pos -0.08729639 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.987] [airbot] [warning] motor 3 pos -0.08729462 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.989] [airbot] [warning] motor 3 pos -0.08729271 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.991] [airbot] [warning] motor 3 pos -0.087290645 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.993] [airbot] [warning] motor 3 pos -0.08728839 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.994] [airbot] [warning] motor 3 pos -0.08728602 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.996] [airbot] [warning] motor 3 pos -0.08728348 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:43.998] [airbot] [warning] motor 3 pos -0.08728082 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:44.000] [airbot] [warning] motor 3 pos -0.08727798 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:44.002] [airbot] [warning] motor 3 pos -0.087274946 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:44.003] [airbot] [warning] motor 3 pos -0.08727182 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:44.005] [airbot] [warning] motor 3 pos -0.087268524 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:02:47.247] [airbot] [info] execution with simple planning in JOINT_POS is finished
+[2024-08-01 16:02:47.640] [airbot] [info] ================== Launch Finish ===================
+[2024-08-01 16:02:47.649] [airbot] [info] ================== AIRBOT PLAY ==================
+[2024-08-01 16:02:47.649] [airbot] [info] Using URDF file: /usr/share/airbot_models/airbot_play_with_gripper.urdf
+[2024-08-01 16:02:47.712] [airbot] [info] board_id: 0	board_type: Base board	firmware_version: 	board_sn_code: ----------------	arm_sn_code: ----------------
+[2024-08-01 16:02:47.712] [airbot] [error] board 0 id error or device lost connection!!!
+[2024-08-01 16:02:47.712] [airbot] [error] Error 0x0001: Base board init fail: Connection lost
+[2024-08-01 16:02:47.712] [airbot] [info] ================== Shutting Down ===================
+[2024-08-01 16:02:47.712] [airbot] [info] Planning: Target joint position is too close to current joint position, no need to plan!
+[2024-08-01 16:02:47.712] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.00000 0.17453 -0.08727 0.00000 0.00000 0.00000 
+[2024-08-01 16:02:47.712] [airbot] [info] Planning: Total steps: 161913, start timestamp: 1722499367712918
+[2024-08-01 16:02:47.876] [airbot] [info] execution with simple planning in JOINT_POS is finished

@@ -1,0 +1,38 @@
+[2024-07-31 17:28:12.786] [airbot] [info] ================== AIRBOT PLAY ==================
+[2024-07-31 17:28:12.786] [airbot] [info] Using URDF file: /usr/share/airbot_models/airbot_play_with_gripper.urdf
+[2024-07-31 17:28:12.849] [airbot] [info] board_id: 0	board_type: Base board	firmware_version: V2.9.0	board_sn_code: DZ21JH0024000656	arm_sn_code: PZ25C0240100029U
+[2024-07-31 17:28:12.910] [airbot] [info] board_id: 1	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FJ002400043G	arm_sn_code: PZ25C0240100029U
+[2024-07-31 17:28:12.940] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:28:13.000] [airbot] [info] board_id: 2	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FJ002400044F	arm_sn_code: PZ25C0240100029U
+[2024-07-31 17:28:13.031] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:28:13.091] [airbot] [info] board_id: 3	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FJ002400045E	arm_sn_code: PZ25C0240100029U
+[2024-07-31 17:28:13.122] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:28:13.142] [airbot] [info] motor_id: 4	version: 3163	target version: 3163 / 5013
+[2024-07-31 17:28:13.162] [airbot] [info] motor_id: 5	version: 3163	target version: 3163 / 5013
+[2024-07-31 17:28:13.183] [airbot] [info] motor_id: 6	version: 3163	target version: 3163 / 5013
+[2024-07-31 17:28:13.243] [airbot] [info] board_id: 7	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ10FD0124270057	arm_sn_code: PZ25C02401000607
+[2024-07-31 17:28:13.274] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:28:13.334] [airbot] [info] board_id: 8	board_type: End board	firmware_version: V2.9.0	board_sn_code: MD21LS0024000502	arm_sn_code: PZ25C0240100029U
+[2024-07-31 17:28:13.465] [airbot] [info] Motor encoder deg 337.30225, initial 337.36816, bias -0.06591797
+[2024-07-31 17:28:13.505] [airbot] [info] Motor encoder deg 3.647461, initial 3.9550781, bias -0.3076172
+[2024-07-31 17:28:13.545] [airbot] [info] Motor encoder deg 14.238281, initial 14.238281, bias 0.0
+[2024-07-31 17:28:13.556] [airbot] [info] robot is running, update frame rate: 0.1
+[2024-07-31 17:28:13.556] [airbot] [info] control mode changed, from: INIT to: JOINT_POS
+[2024-07-31 17:28:13.557] [airbot] [info] execution with simple planning in JOINT_POS is finished
+[2024-07-31 17:28:13.656] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 
+[2024-07-31 17:28:13.656] [airbot] [info] Planning: Total steps: 163278, start timestamp: 1722418093656252
+[2024-07-31 17:28:13.658] [airbot] [warning] motor 3 pos -0.08728265 is out of jointspace: -0.08726646 3.1415927
+[2024-07-31 17:28:13.820] [airbot] [info] execution with simple planning in JOINT_POS is finished
+[2024-07-31 17:28:14.431] [airbot] [info] ================== Launch Finish ===================
+[2024-07-31 17:28:14.434] [airbot] [info] ================== AIRBOT PLAY ==================
+[2024-07-31 17:28:14.434] [airbot] [info] Using URDF file: /usr/share/airbot_models/airbot_play_with_gripper.urdf
+[2024-07-31 17:28:14.496] [airbot] [info] board_id: 0	board_type: Base board	firmware_version: V2.9.0	board_sn_code: DZ21JH0024000629	arm_sn_code: PZ25C0240000083V
+[2024-07-31 17:28:14.556] [airbot] [info] board_id: 1	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FJ002400034G	arm_sn_code: PZ25C0240000083V
+[2024-07-31 17:28:14.587] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:28:14.647] [airbot] [info] board_id: 2	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FJ002400035H	arm_sn_code: PZ25C0240000083V
+[2024-07-31 17:28:14.677] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:28:14.737] [airbot] [info] board_id: 3	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FJ002400036I	arm_sn_code: PZ25C0240000083V
+[2024-07-31 17:28:14.767] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:28:14.788] [airbot] [info] motor_id: 4	version: 3163	target version: 3163 / 5013
+[2024-07-31 17:28:14.808] [airbot] [info] motor_id: 5	version: 3163	target version: 3163 / 5013
+[2024-07-31 17:28:14.828] [airbot] [info] motor_id: 6	version: 3163	target version: 3163 / 5013

@@ -1,0 +1,16 @@
+[2024-07-31 17:31:53.893] [airbot] [info] board_id: 0	board_type: Base board	firmware_version: 	board_sn_code: ----------------	arm_sn_code: ----------------
+[2024-07-31 17:31:53.893] [airbot] [error] board 0 id error or device lost connection!!!
+[2024-07-31 17:31:53.955] [airbot] [info] board_id: 1	board_type: OD motor	firmware_version: 	board_sn_code: ----------------	arm_sn_code: ----------------
+[2024-07-31 17:31:53.955] [airbot] [error] board 1 id error or device lost connection!!!
+[2024-07-31 17:31:53.985] [airbot] [info] 		motor_body_sn_code: ----------------	 motor_sn_code: ----------------
+[2024-07-31 17:31:54.051] [airbot] [info] board_id: 2	board_type: OD motor	firmware_version: 	board_sn_code: ----------------	arm_sn_code: ----------------
+[2024-07-31 17:31:54.051] [airbot] [error] board 2 id error or device lost connection!!!
+[2024-07-31 17:31:54.081] [airbot] [info] 		motor_body_sn_code: ----------------	 motor_sn_code: ----------------
+[2024-07-31 17:31:54.147] [airbot] [info] board_id: 3	board_type: OD motor	firmware_version: 	board_sn_code: ----------------	arm_sn_code: ----------------
+[2024-07-31 17:31:54.147] [airbot] [error] board 3 id error or device lost connection!!!
+[2024-07-31 17:31:54.177] [airbot] [info] 		motor_body_sn_code: ----------------	 motor_sn_code: ----------------
+[2024-07-31 17:31:54.202] [airbot] [warning] motor_id: 4 communication error , init failed!
+[2024-07-31 17:31:54.228] [airbot] [warning] motor_id: 5 communication error , init failed!
+[2024-07-31 17:31:54.253] [airbot] [warning] motor_id: 6 communication error , init failed!
+[2024-07-31 17:31:54.319] [airbot] [info] board_id: 8	board_type: End board	firmware_version: 	board_sn_code: ----------------	arm_sn_code: ----------------
+[2024-07-31 17:31:54.319] [airbot] [error] board 8 id error or device lost connection!!!

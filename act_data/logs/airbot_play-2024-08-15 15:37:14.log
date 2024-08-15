@@ -1,0 +1,43 @@
+[2024-08-15 15:37:14.592] [airbot] [info] ================== AIRBOT PLAY ==================
+[2024-08-15 15:37:14.592] [airbot] [info] Using URDF file: /usr/share/airbot_models/airbot_play_with_gripper.urdf
+[2024-08-15 15:37:14.656] [airbot] [info] board_id: 0	board_type: Base board	firmware_version: V2.9.0	board_sn_code: DZ21JH002400139Y	arm_sn_code: PZ25C02401000742
+[2024-08-15 15:37:14.716] [airbot] [info] board_id: 1	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DT30LS002417216L	arm_sn_code: PZ25C02401000742
+[2024-08-15 15:37:14.746] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-15 15:37:14.807] [airbot] [info] board_id: 2	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DT20JS002400193I	arm_sn_code: PZ25C02401000742
+[2024-08-15 15:37:14.837] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-15 15:37:14.897] [airbot] [info] board_id: 3	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DT30LS002419409R	arm_sn_code: PZ25C02401000742
+[2024-08-15 15:37:14.927] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-15 15:37:14.947] [airbot] [info] motor_id: 4	version: 3163	target version: 3163 / 5013
+[2024-08-15 15:37:14.968] [airbot] [info] motor_id: 5	version: 3163	target version: 3163 / 5013
+[2024-08-15 15:37:14.988] [airbot] [info] motor_id: 6	version: 3163	target version: 3163 / 5013
+[2024-08-15 15:37:15.048] [airbot] [info] board_id: 7	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ10FD0124270057	arm_sn_code: PZ25C02401000607
+[2024-08-15 15:37:15.079] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-15 15:37:15.139] [airbot] [info] board_id: 8	board_type: End board	firmware_version: V2.9.0	board_sn_code: MD20JH002401103O	arm_sn_code: PZ25C02401000742
+[2024-08-15 15:37:15.269] [airbot] [info] Motor encoder deg 310.53955, initial 310.7373, bias -0.1977539
+[2024-08-15 15:37:15.310] [airbot] [info] Motor encoder deg 47.4609375, initial 46.779785, bias 0.68115234
+[2024-08-15 15:37:15.350] [airbot] [info] Motor encoder deg 123.2666, initial 121.223145, bias 2.043457
+[2024-08-15 15:37:15.360] [airbot] [info] robot is running, update frame rate: 0.1
+[2024-08-15 15:37:15.360] [airbot] [info] control mode changed, from: INIT to: JOINT_POS
+[2024-08-15 15:37:15.362] [airbot] [info] execution with simple planning in JOINT_POS is finished
+[2024-08-15 15:37:15.460] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 
+[2024-08-15 15:37:15.460] [airbot] [info] Planning: Total steps: 164487, start timestamp: 1723707435460571
+[2024-08-15 15:37:15.462] [airbot] [warning] motor 2 pos 0.17474331 is out of jointspace: -2.9670596 0.17453292
+[2024-08-15 15:37:15.626] [airbot] [info] execution with simple planning in JOINT_POS is finished
+[2024-08-15 15:37:16.215] [airbot] [info] ================== Launch Finish ===================
+[2024-08-15 15:37:16.218] [airbot] [info] ================== AIRBOT PLAY ==================
+[2024-08-15 15:37:16.218] [airbot] [info] Using URDF file: /usr/share/airbot_models/airbot_play_with_gripper.urdf
+[2024-08-15 15:37:16.281] [airbot] [info] board_id: 0	board_type: Base board	firmware_version: V2.9.0	board_sn_code: DZ21JH0024000872	arm_sn_code: PZ25C02401000054
+[2024-08-15 15:37:16.341] [airbot] [info] board_id: 1	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FL012400420E	arm_sn_code: PZ25C02401000054
+[2024-08-15 15:37:16.371] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-15 15:37:16.431] [airbot] [info] board_id: 2	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FL012400417I	arm_sn_code: PZ25C02401000054
+[2024-08-15 15:37:16.462] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-15 15:37:16.522] [airbot] [info] board_id: 3	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FL012400415G	arm_sn_code: PZ25C02401000054
+[2024-08-15 15:37:16.552] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-15 15:37:16.572] [airbot] [info] motor_id: 4	version: 3163	target version: 3163 / 5013
+[2024-08-15 15:37:16.593] [airbot] [info] motor_id: 5	version: 3163	target version: 3163 / 5013
+[2024-08-15 15:37:16.613] [airbot] [info] motor_id: 6	version: 3163	target version: 3163 / 5013
+[2024-08-15 15:37:16.633] [airbot] [info] motor_id: 7	version: 5013	target version: 3163 / 5013
+[2024-08-15 15:37:16.694] [airbot] [info] board_id: 8	board_type: End board	firmware_version: V2.9.0	board_sn_code: MD20JH002401082G	arm_sn_code: PZ25C02401000054
+[2024-08-15 15:37:16.824] [airbot] [info] Motor encoder deg 215.22217, initial 215.77148, bias -0.5493164
+[2024-08-15 15:37:16.864] [airbot] [info] Motor encoder deg 315.98877, initial 204.21387, bias 111.7749
+[2024-08-15 15:37:16.915] [airbot] [error] Motor 2 encoder bias is too large: 111.7749

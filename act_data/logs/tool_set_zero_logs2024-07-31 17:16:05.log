@@ -1,0 +1,10 @@
+[2024-07-31 17:16:06.292] [airbot] [info] board_id: 0	board_type: Base board	firmware_version: V2.9.0	board_sn_code: DZ21JH0024000629	arm_sn_code: PZ25C0240000083V
+[2024-07-31 17:16:06.452] [airbot] [info] board_id: 1	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FJ002400034G	arm_sn_code: PZ25C0240000083V
+[2024-07-31 17:16:06.482] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:16:06.543] [airbot] [info] board_id: 2	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FJ002400035H	arm_sn_code: PZ25C0240000083V
+[2024-07-31 17:16:06.573] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:16:06.634] [airbot] [info] board_id: 3	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FJ002400036I	arm_sn_code: PZ25C0240000083V
+[2024-07-31 17:16:06.664] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:16:06.684] [airbot] [info] motor_id: 4	version: 3163	target version: 3163 / 5013
+[2024-07-31 17:16:06.705] [airbot] [info] motor_id: 5	version: 3163	target version: 3163 / 5013
+[2024-07-31 17:16:06.725] [airbot] [info] motor_id: 6	version: 3163	target version: 3163 / 5013

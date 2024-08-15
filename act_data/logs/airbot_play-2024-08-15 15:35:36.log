@@ -1,0 +1,18 @@
+[2024-08-15 15:35:36.304] [airbot] [info] ================== AIRBOT PLAY ==================
+[2024-08-15 15:35:36.304] [airbot] [info] Using URDF file: /usr/share/airbot_models/airbot_play_with_gripper.urdf
+[2024-08-15 15:35:36.366] [airbot] [info] board_id: 0	board_type: Base board	firmware_version: V2.9.0	board_sn_code: DZ21JH002400139Y	arm_sn_code: PZ25C02401000742
+[2024-08-15 15:35:36.427] [airbot] [info] board_id: 1	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DT30LS002417216L	arm_sn_code: PZ25C02401000742
+[2024-08-15 15:35:36.457] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-15 15:35:36.517] [airbot] [info] board_id: 2	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DT20JS002400193I	arm_sn_code: PZ25C02401000742
+[2024-08-15 15:35:36.547] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-15 15:35:36.608] [airbot] [info] board_id: 3	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DT30LS002419409R	arm_sn_code: PZ25C02401000742
+[2024-08-15 15:35:36.638] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-15 15:35:36.658] [airbot] [info] motor_id: 4	version: 3163	target version: 3163 / 5013
+[2024-08-15 15:35:36.679] [airbot] [info] motor_id: 5	version: 3163	target version: 3163 / 5013
+[2024-08-15 15:35:36.699] [airbot] [info] motor_id: 6	version: 3163	target version: 3163 / 5013
+[2024-08-15 15:35:36.759] [airbot] [info] board_id: 7	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ10FD0124270057	arm_sn_code: PZ25C02401000607
+[2024-08-15 15:35:36.790] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-15 15:35:36.850] [airbot] [info] board_id: 8	board_type: End board	firmware_version: V2.9.0	board_sn_code: MD20JH002401103O	arm_sn_code: PZ25C02401000742
+[2024-08-15 15:35:36.980] [airbot] [info] Motor encoder deg 310.4956, initial 310.7373, bias -0.24169922
+[2024-08-15 15:35:37.021] [airbot] [info] Motor encoder deg 134.82422, initial 46.779785, bias 88.04443
+[2024-08-15 15:35:37.076] [airbot] [error] Motor 2 encoder bias is too large: 88.04443

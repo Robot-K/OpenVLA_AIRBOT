@@ -1,0 +1,163 @@
+[2024-08-01 16:03:55.320] [airbot] [info] ================== AIRBOT PLAY ==================
+[2024-08-01 16:03:55.320] [airbot] [info] Using URDF file: /usr/share/airbot_models/airbot_play_with_gripper.urdf
+[2024-08-01 16:03:55.384] [airbot] [info] board_id: 0	board_type: Base board	firmware_version: V2.9.0	board_sn_code: DZ21JH002400139Y	arm_sn_code: PZ25C02401000742
+[2024-08-01 16:03:55.445] [airbot] [info] board_id: 1	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DT30LS002417216L	arm_sn_code: PZ25C02401000742
+[2024-08-01 16:03:55.475] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-01 16:03:55.536] [airbot] [info] board_id: 2	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DT20JS002400193I	arm_sn_code: PZ25C02401000742
+[2024-08-01 16:03:55.566] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-01 16:03:55.626] [airbot] [info] board_id: 3	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DT30LS002419409R	arm_sn_code: PZ25C02401000742
+[2024-08-01 16:03:55.657] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-01 16:03:55.677] [airbot] [info] motor_id: 4	version: 3163	target version: 3163 / 5013
+[2024-08-01 16:03:55.697] [airbot] [info] motor_id: 5	version: 3163	target version: 3163 / 5013
+[2024-08-01 16:03:55.718] [airbot] [info] motor_id: 6	version: 3163	target version: 3163 / 5013
+[2024-08-01 16:03:55.778] [airbot] [info] board_id: 7	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ10FD0124270057	arm_sn_code: PZ25C02401000607
+[2024-08-01 16:03:55.808] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-08-01 16:03:55.868] [airbot] [info] board_id: 8	board_type: End board	firmware_version: V2.9.0	board_sn_code: MD20JH002401103O	arm_sn_code: PZ25C02401000742
+[2024-08-01 16:03:55.999] [airbot] [info] Motor encoder deg 310.5835, initial 310.7373, bias -0.1538086
+[2024-08-01 16:03:56.039] [airbot] [info] Motor encoder deg 46.25244, initial 46.779785, bias -0.52734375
+[2024-08-01 16:03:56.079] [airbot] [info] Motor encoder deg 121.20117, initial 121.223145, bias -0.021972656
+[2024-08-01 16:03:56.089] [airbot] [info] robot is running, update frame rate: 0.1
+[2024-08-01 16:03:56.089] [airbot] [info] control mode changed, from: INIT to: JOINT_POS
+[2024-08-01 16:03:56.091] [airbot] [info] execution with simple planning in JOINT_POS is finished
+[2024-08-01 16:03:56.189] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 
+[2024-08-01 16:03:56.189] [airbot] [info] Planning: Total steps: 180235, start timestamp: 1722499436189898
+[2024-08-01 16:03:56.192] [airbot] [warning] motor 3 pos -0.087294355 is out of jointspace: -0.08726646 3.1415927
+[2024-08-01 16:03:56.371] [airbot] [info] execution with simple planning in JOINT_POS is finished
+[2024-08-01 16:03:56.914] [airbot] [info] ================== Launch Finish ===================
+[2024-08-01 16:03:56.914] [airbot] [warning] record file is empty, file name wrong?
+[2024-08-01 16:03:57.953] [airbot] [info] Calculated target joint position: 0.00000 -0.09473 0.01962 1.57000 0.07511 -1.57000
+[2024-08-01 16:03:57.953] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.00000 -0.09473 0.01962 1.57000 0.07511 -1.57000 
+[2024-08-01 16:03:57.953] [airbot] [info] Planning: Total steps: 49922, start timestamp: 1722499437953733
+[2024-08-01 16:03:58.005] [airbot] [info] execution with simple planning in JOINT_POS is finished
+[2024-08-01 16:03:58.106] [airbot] [info] Calculated target joint position: 0.00000 -0.18461 0.04127 1.57000 0.14334 -1.57000
+[2024-08-01 16:03:58.106] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.00000 -0.18461 0.04127 1.57000 0.14334 -1.57000 
+[2024-08-01 16:03:58.106] [airbot] [info] Planning: Total steps: 111229, start timestamp: 1722499438106226
+[2024-08-01 16:03:58.218] [airbot] [info] execution with simple planning in JOINT_POS is finished
+[2024-08-01 16:03:58.720] [airbot] [info] Calculated target joint position: 0.00000 -0.09473 0.01962 1.57000 0.07511 -1.57000
+[2024-08-01 16:03:58.720] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.00000 -0.09473 0.01962 1.57000 0.07511 -1.57000 
+[2024-08-01 16:03:58.720] [airbot] [info] Planning: Total steps: 50897, start timestamp: 1722499438720334
+[2024-08-01 16:03:58.771] [airbot] [info] execution with simple planning in JOINT_POS is finished
+[2024-08-01 16:03:59.624] [airbot] [info] Calculated target joint position: 0.14414 -0.10139 0.02112 -0.50547 -0.16485 0.51126
+[2024-08-01 16:03:59.624] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.14414 -0.10139 0.02112 -0.50547 -0.16485 0.51126 
+[2024-08-01 16:03:59.624] [airbot] [info] Planning: Total steps: 50276, start timestamp: 1722499439624557
+[2024-08-01 16:03:59.676] [airbot] [info] execution with simple planning in JOINT_POS is finished
+[2024-08-01 16:04:00.773] [airbot] [info] Calculated target joint position: -0.00000 -0.09473 0.01962 -1.57159 -0.07511 1.57159
+[2024-08-01 16:04:00.773] [airbot] [info] Planning: Trajectory generated with target joint positions: -0.00000 -0.09473 0.01962 -1.57159 -0.07511 1.57159 
+[2024-08-01 16:04:00.773] [airbot] [info] Planning: Total steps: 717964, start timestamp: 1722499440773730
+[2024-08-01 16:04:01.493] [airbot] [info] execution with simple planning in JOINT_POS is finished
+[2024-08-01 16:04:02.421] [airbot] [info] Calculated target joint position: 0.14414 -0.10139 0.02112 -0.50547 -0.16485 0.51126
+[2024-08-01 16:04:02.421] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.14414 -0.10139 0.02112 -0.50547 -0.16485 0.51126 
+[2024-08-01 16:04:02.421] [airbot] [info] Planning: Total steps: 2423609, start timestamp: 1722499442421706
+[2024-08-01 16:04:02.602] [airbot] [info] Calculated target joint position: 0.28253 -0.12080 0.02559 -0.31729 -0.29774 0.33084
+[2024-08-01 16:04:02.602] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.28253 -0.12080 0.02559 -0.31729 -0.29774 0.33084 
+[2024-08-01 16:04:02.602] [airbot] [info] Planning: Total steps: 2420336, start timestamp: 1722499442602267
+[2024-08-01 16:04:02.946] [airbot] [info] Calculated target joint position: 0.41068 -0.15148 0.03293 -0.26601 -0.42651 0.29072
+[2024-08-01 16:04:02.946] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.41068 -0.15148 0.03293 -0.26601 -0.42651 0.29072 
+[2024-08-01 16:04:02.946] [airbot] [info] Planning: Total steps: 2371769, start timestamp: 1722499442946199
+[2024-08-01 16:04:03.298] [airbot] [info] Calculated target joint position: 0.36337 -0.23198 0.05397 -0.43661 -0.40288 0.46939
+[2024-08-01 16:04:03.298] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.36337 -0.23198 0.05397 -0.43661 -0.40288 0.46939 
+[2024-08-01 16:04:03.298] [airbot] [info] Planning: Total steps: 2300294, start timestamp: 1722499443298500
+[2024-08-01 16:04:03.494] [airbot] [info] Calculated target joint position: 0.32547 -0.30934 0.07679 -0.59995 -0.39760 0.63830
+[2024-08-01 16:04:03.494] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.32547 -0.30934 0.07679 -0.59995 -0.39760 0.63830 
+[2024-08-01 16:04:03.494] [airbot] [info] Planning: Total steps: 2278174, start timestamp: 1722499443494110
+[2024-08-01 16:04:03.691] [airbot] [info] Calculated target joint position: 0.29453 -0.38313 0.10116 -0.74305 -0.40488 0.78515
+[2024-08-01 16:04:03.691] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.29453 -0.38313 0.10116 -0.74305 -0.40488 0.78515 
+[2024-08-01 16:04:03.691] [airbot] [info] Planning: Total steps: 2269171, start timestamp: 1722499443691892
+[2024-08-01 16:04:03.859] [airbot] [info] Calculated target joint position: 0.26883 -0.45321 0.12690 -0.86164 -0.41970 0.90615
+[2024-08-01 16:04:03.859] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.26883 -0.45321 0.12690 -0.86164 -0.41970 0.90615 
+[2024-08-01 16:04:03.859] [airbot] [info] Planning: Total steps: 2267405, start timestamp: 1722499443859208
+[2024-08-01 16:04:04.076] [airbot] [info] Calculated target joint position: 0.24716 -0.51962 0.15385 -0.95721 -0.43831 1.00315
+[2024-08-01 16:04:04.076] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.24716 -0.51962 0.15385 -0.95721 -0.43831 1.00315 
+[2024-08-01 16:04:04.076] [airbot] [info] Planning: Total steps: 2262381, start timestamp: 1722499444076185
+[2024-08-01 16:04:04.259] [airbot] [info] Calculated target joint position: 0.22868 -0.58251 0.18186 -1.03356 -0.45823 1.08018
+[2024-08-01 16:04:04.259] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.22868 -0.58251 0.18186 -1.03356 -0.45823 1.08018 
+[2024-08-01 16:04:04.259] [airbot] [info] Planning: Total steps: 2262659, start timestamp: 1722499444259389
+[2024-08-01 16:04:04.501] [airbot] [info] Calculated target joint position: 0.30091 -0.59884 0.18956 -0.90928 -0.50291 0.97219
+[2024-08-01 16:04:04.501] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.30091 -0.59884 0.18956 -0.90928 -0.50291 0.97219 
+[2024-08-01 16:04:04.501] [airbot] [info] Planning: Total steps: 2252626, start timestamp: 1722499444501438
+[2024-08-01 16:04:04.673] [airbot] [info] Calculated target joint position: 0.37004 -0.61903 0.19932 -0.81080 -0.55215 0.89049
+[2024-08-01 16:04:04.673] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.37004 -0.61903 0.19932 -0.81080 -0.55215 0.89049 
+[2024-08-01 16:04:04.673] [airbot] [info] Planning: Total steps: 2249857, start timestamp: 1722499444673447
+[2024-08-01 16:04:04.988] [airbot] [info] Calculated target joint position: 0.43566 -0.64256 0.21107 -0.73276 -0.60326 0.82971
+[2024-08-01 16:04:04.988] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.43566 -0.64256 0.21107 -0.73276 -0.60326 0.82971 
+[2024-08-01 16:04:04.988] [airbot] [info] Planning: Total steps: 2233294, start timestamp: 1722499444988450
+[2024-08-01 16:04:05.131] [airbot] [info] Calculated target joint position: 0.49751 -0.66893 0.22469 -0.67024 -0.65429 0.78486
+[2024-08-01 16:04:05.131] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.49751 -0.66893 0.22469 -0.67024 -0.65429 0.78486 
+[2024-08-01 16:04:05.131] [airbot] [info] Planning: Total steps: 2232950, start timestamp: 1722499445131231
+[2024-08-01 16:04:05.277] [airbot] [info] Calculated target joint position: 0.55547 -0.69760 0.24010 -0.61932 -0.70398 0.75189
+[2024-08-01 16:04:05.277] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.55547 -0.69760 0.24010 -0.61932 -0.70398 0.75189 
+[2024-08-01 16:04:05.277] [airbot] [info] Planning: Total steps: 2236361, start timestamp: 1722499445277372
+[2024-08-01 16:04:05.654] [airbot] [info] Calculated target joint position: 0.60955 -0.72810 0.25717 -0.57703 -0.75151 0.72769
+[2024-08-01 16:04:05.654] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.60955 -0.72810 0.25717 -0.57703 -0.75151 0.72769 
+[2024-08-01 16:04:05.654] [airbot] [info] Planning: Total steps: 2197989, start timestamp: 1722499445654945
+[2024-08-01 16:04:05.860] [airbot] [info] Calculated target joint position: 0.65982 -0.75999 0.27581 -0.54120 -0.79640 0.70992
+[2024-08-01 16:04:05.860] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.65982 -0.75999 0.27581 -0.54120 -0.79640 0.70992 
+[2024-08-01 16:04:05.860] [airbot] [info] Planning: Total steps: 2187575, start timestamp: 1722499445860049
+[2024-08-01 16:04:06.072] [airbot] [info] Calculated target joint position: 0.70647 -0.79289 0.29591 -0.51027 -0.83842 0.69683
+[2024-08-01 16:04:06.072] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.70647 -0.79289 0.29591 -0.51027 -0.83842 0.69683 
+[2024-08-01 16:04:06.072] [airbot] [info] Planning: Total steps: 2180514, start timestamp: 1722499446072947
+[2024-08-01 16:04:06.090] [airbot] [info] robot is running, update frame rate: 19393.0
+[2024-08-01 16:04:06.253] [airbot] [info] Calculated target joint position: 0.74967 -0.82648 0.31738 -0.48308 -0.87748 0.68711
+[2024-08-01 16:04:06.253] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.74967 -0.82648 0.31738 -0.48308 -0.87748 0.68711 
+[2024-08-01 16:04:06.253] [airbot] [info] Planning: Total steps: 2178917, start timestamp: 1722499446253312
+[2024-08-01 16:04:06.753] [airbot] [info] Calculated target joint position: 0.78967 -0.86048 0.34012 -0.45880 -0.91361 0.67977
+[2024-08-01 16:04:06.753] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.78967 -0.86048 0.34012 -0.45880 -0.91361 0.67977 
+[2024-08-01 16:04:06.753] [airbot] [info] Planning: Total steps: 2069764, start timestamp: 1722499446753790
+[2024-08-01 16:04:06.784] [airbot] [info] Calculated target joint position: 0.82667 -0.89470 0.36405 -0.43683 -0.94693 0.67408
+[2024-08-01 16:04:06.784] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.82667 -0.89470 0.36405 -0.43683 -0.94693 0.67408 
+[2024-08-01 16:04:06.784] [airbot] [info] Planning: Total steps: 2079571, start timestamp: 1722499446784676
+[2024-08-01 16:04:06.813] [airbot] [info] Calculated target joint position: 0.86093 -0.92895 0.38909 -0.41672 -0.97756 0.66946
+[2024-08-01 16:04:06.813] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.86093 -0.92895 0.38909 -0.41672 -0.97756 0.66946 
+[2024-08-01 16:04:06.813] [airbot] [info] Planning: Total steps: 2092170, start timestamp: 1722499446813410
+[2024-08-01 16:04:06.844] [airbot] [info] Calculated target joint position: 0.89265 -0.96311 0.41518 -0.39813 -1.00569 0.66549
+[2024-08-01 16:04:06.844] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.89265 -0.96311 0.41518 -0.39813 -1.00569 0.66549 
+[2024-08-01 16:04:06.844] [airbot] [info] Planning: Total steps: 2107160, start timestamp: 1722499446844367
+[2024-08-01 16:04:06.875] [airbot] [info] Calculated target joint position: 0.92206 -0.99709 0.44226 -0.38081 -1.03149 0.66185
+[2024-08-01 16:04:06.875] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.92206 -0.99709 0.44226 -0.38081 -1.03149 0.66185 
+[2024-08-01 16:04:06.875] [airbot] [info] Planning: Total steps: 2122147, start timestamp: 1722499446875323
+[2024-08-01 16:04:06.903] [airbot] [info] Calculated target joint position: 0.94936 -1.03082 0.47026 -0.36457 -1.05514 0.65828
+[2024-08-01 16:04:06.903] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.94936 -1.03082 0.47026 -0.36457 -1.05514 0.65828 
+[2024-08-01 16:04:06.903] [airbot] [info] Planning: Total steps: 2138753, start timestamp: 1722499446903814
+[2024-08-01 16:04:06.934] [airbot] [info] Calculated target joint position: 0.97472 -1.06426 0.49915 -0.34926 -1.07683 0.65460
+[2024-08-01 16:04:06.934] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.97472 -1.06426 0.49915 -0.34926 -1.07683 0.65460 
+[2024-08-01 16:04:06.934] [airbot] [info] Planning: Total steps: 2156358, start timestamp: 1722499446934779
+[2024-08-01 16:04:06.963] [airbot] [info] Calculated target joint position: 0.99831 -1.09738 0.52890 -0.33476 -1.09672 0.65067
+[2024-08-01 16:04:06.963] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.99831 -1.09738 0.52890 -0.33476 -1.09672 0.65067 
+[2024-08-01 16:04:06.963] [airbot] [info] Planning: Total steps: 2174969, start timestamp: 1722499446963326
+[2024-08-01 16:04:06.994] [airbot] [info] Calculated target joint position: 1.02030 -1.13016 0.55945 -0.32097 -1.11497 0.64638
+[2024-08-01 16:04:06.994] [airbot] [info] Planning: Trajectory generated with target joint positions: 1.02030 -1.13016 0.55945 -0.32097 -1.11497 0.64638 
+[2024-08-01 16:04:06.994] [airbot] [info] Planning: Total steps: 2194588, start timestamp: 1722499446994303
+[2024-08-01 16:04:07.025] [airbot] [info] Calculated target joint position: 1.04082 -1.16262 0.59080 -0.30783 -1.13173 0.64164
+[2024-08-01 16:04:07.025] [airbot] [info] Planning: Trajectory generated with target joint positions: 1.04082 -1.16262 0.59080 -0.30783 -1.13173 0.64164 
+[2024-08-01 16:04:07.025] [airbot] [info] Planning: Total steps: 2215111, start timestamp: 1722499447025204
+[2024-08-01 16:04:07.056] [airbot] [info] Calculated target joint position: 1.05999 -1.19476 0.62292 -0.29526 -1.14713 0.63640
+[2024-08-01 16:04:07.056] [airbot] [info] Planning: Trajectory generated with target joint positions: 1.05999 -1.19476 0.62292 -0.29526 -1.14713 0.63640 
+[2024-08-01 16:04:07.056] [airbot] [info] Planning: Total steps: 2236576, start timestamp: 1722499447056183
+[2024-08-01 16:04:07.087] [airbot] [info] Calculated target joint position: 1.07794 -1.22659 0.65580 -0.28322 -1.16131 0.63061
+[2024-08-01 16:04:07.087] [airbot] [info] Planning: Trajectory generated with target joint positions: 1.07794 -1.22659 0.65580 -0.28322 -1.16131 0.63061 
+[2024-08-01 16:04:07.087] [airbot] [info] Planning: Total steps: 2258995, start timestamp: 1722499447087140
+[2024-08-01 16:04:07.115] [airbot] [info] Calculated target joint position: 1.09476 -1.25815 0.68942 -0.27164 -1.17437 0.62424
+[2024-08-01 16:04:07.115] [airbot] [info] Planning: Trajectory generated with target joint positions: 1.09476 -1.25815 0.68942 -0.27164 -1.17437 0.62424 
+[2024-08-01 16:04:07.115] [airbot] [info] Planning: Total steps: 2282212, start timestamp: 1722499447115503
+[2024-08-01 16:04:07.533] [airbot] [info] Calculated target joint position: 1.12687 -1.24238 0.67250 -0.25197 -1.20080 0.61793
+[2024-08-01 16:04:07.533] [airbot] [info] Planning: Trajectory generated with target joint positions: 1.12687 -1.24238 0.67250 -0.25197 -1.20080 0.61793 
+[2024-08-01 16:04:07.533] [airbot] [info] Planning: Total steps: 2197538, start timestamp: 1722499447533978
+[2024-08-01 16:04:09.049] [airbot] [info] Calculated target joint position: 1.09476 -1.25815 0.68942 -0.27164 -1.17437 0.62424
+[2024-08-01 16:04:09.049] [airbot] [info] Planning: Trajectory generated with target joint positions: 1.09476 -1.25815 0.68942 -0.27164 -1.17437 0.62424 
+[2024-08-01 16:04:09.049] [airbot] [info] Planning: Total steps: 1152759, start timestamp: 1722499449049093
+[2024-08-01 16:04:10.033] [airbot] [info] Calculated target joint position: 1.06368 -1.27476 0.70755 -0.29088 -1.14878 0.63057
+[2024-08-01 16:04:10.033] [airbot] [info] Planning: Trajectory generated with target joint positions: 1.06368 -1.27476 0.70755 -0.29088 -1.14878 0.63057 
+[2024-08-01 16:04:10.033] [airbot] [info] Planning: Total steps: 932177, start timestamp: 1722499450033730
+[2024-08-01 16:04:10.196] [airbot] [info] Calculated target joint position: 1.03363 -1.29217 0.72684 -0.30964 -1.12399 0.63684
+[2024-08-01 16:04:10.196] [airbot] [info] Planning: Trajectory generated with target joint positions: 1.03363 -1.29217 0.72684 -0.30964 -1.12399 0.63684 
+[2024-08-01 16:04:10.196] [airbot] [info] Planning: Total steps: 932756, start timestamp: 1722499450196062
+[2024-08-01 16:04:10.372] [airbot] [info] Calculated target joint position: 1.00462 -1.31032 0.74727 -0.32787 -1.09999 0.64296
+[2024-08-01 16:04:10.372] [airbot] [info] Planning: Trajectory generated with target joint positions: 1.00462 -1.31032 0.74727 -0.32787 -1.09999 0.64296 
+[2024-08-01 16:04:10.372] [airbot] [info] Planning: Total steps: 935167, start timestamp: 1722499450372405
+[2024-08-01 16:04:11.000] [airbot] [info] ================== Shutting Down ===================
+[2024-08-01 16:04:11.000] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.00000 0.00000 0.00000 0.00000 0.00000 0.00000 
+[2024-08-01 16:04:11.008] [airbot] [info] Planning: Total steps: 1624063, start timestamp: 1722499451000287
+[2024-08-01 16:04:12.624] [airbot] [info] execution with simple planning in JOINT_POS is finished
+[2024-08-01 16:04:13.271] [airbot] [info] Planning: Trajectory generated with target joint positions: 0.00000 0.17453 -0.08727 0.00000 0.00000 0.00000 
+[2024-08-01 16:04:13.271] [airbot] [info] Planning: Total steps: 163320, start timestamp: 1722499453271493
+[2024-08-01 16:04:13.436] [airbot] [info] execution with simple planning in JOINT_POS is finished

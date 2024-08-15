@@ -1,0 +1,14 @@
+[2024-07-31 17:26:38.277] [airbot] [info] ================== AIRBOT PLAY ==================
+[2024-07-31 17:26:38.277] [airbot] [info] Using URDF file: /usr/share/airbot_models/airbot_play_with_gripper.urdf
+[2024-07-31 17:26:38.340] [airbot] [info] board_id: 0	board_type: Base board	firmware_version: V2.9.0	board_sn_code: DZ21JH0024000656	arm_sn_code: PZ25C0240100029U
+[2024-07-31 17:26:38.400] [airbot] [info] board_id: 1	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FJ002400043G	arm_sn_code: PZ25C0240100029U
+[2024-07-31 17:26:38.431] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:26:38.491] [airbot] [info] board_id: 2	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FJ002400044F	arm_sn_code: PZ25C0240100029U
+[2024-07-31 17:26:38.521] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:26:38.582] [airbot] [info] board_id: 3	board_type: OD motor	firmware_version: V2.9.0	board_sn_code: DJ25FJ002400045E	arm_sn_code: PZ25C0240100029U
+[2024-07-31 17:26:38.612] [airbot] [info] 		motor_body_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ	 motor_sn_code: ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
+[2024-07-31 17:26:38.632] [airbot] [info] motor_id: 4	version: 3163	target version: 3163 / 5013
+[2024-07-31 17:26:38.653] [airbot] [info] motor_id: 5	version: 3163	target version: 3163 / 5013
+[2024-07-31 17:26:38.673] [airbot] [info] motor_id: 6	version: 3163	target version: 3163 / 5013
+[2024-07-31 17:26:38.693] [airbot] [warning] motor_id: 7 communication error , init failed!
+[2024-07-31 17:26:38.739] [airbot] [error] End motor initialization failed

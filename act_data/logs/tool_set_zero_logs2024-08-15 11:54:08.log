@@ -1,0 +1,3 @@
+[2024-08-15 11:54:09.862] [airbot] [info] board_id: 0	board_type: Base board	firmware_version: 	board_sn_code: ----------------	arm_sn_code: ----------------
+[2024-08-15 11:54:09.862] [airbot] [error] board 0 id error or device lost connection!!!
+[2024-08-15 11:54:09.862] [airbot] [error] Error 0x0001: Base board init fail: Connection lost

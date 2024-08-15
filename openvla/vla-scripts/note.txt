@@ -1,0 +1,1 @@
+python vla-scripts/airbot_client.py -cmd "Put the mark into the bowl." -cm 0 -uk airbot_mix -can can1 --time_steps 40
